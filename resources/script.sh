@@ -9,7 +9,7 @@ echo
 echo "* Pterodactyl-Freestuff-Installer Script @ $SCRIPT_VERSION"
 echo
 echo "* Copyright (C) 2021 - 2023."
-echo "* https://github.com/Sigma-Production/PteroFreeStuffinstaller"
+echo "* https://github.com/TuyulAkun/PteroFreeStuffinstaller"
 echo
 echo "* This script is not associated with the official Pterodactyl Project."
 #print_brake 70
